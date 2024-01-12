@@ -1,7 +1,7 @@
 # Farol-Bar-Problem-RL-
 Reinforcement Learning the Farol Bar Problem
 # Autors
-@ZiedKebir and @Azou
+@ZiedKebir and @Azou903(Assane SOW)
 ## Backround
 
 The El Farol Bar Problem (Minority Game) is an interesting problem in Game Theory. The problem states that there is one bar in the town with a community that must decided on the particular night, whether they will attend the bar or not.
